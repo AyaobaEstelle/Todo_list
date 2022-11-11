@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Make it work with fake db",
+		"description": "Make the project work with a fake db",
+		"status": "ongoing"
+	},
+	{
+		"title": "Make it work with Mongo",
+		"description": "Make the project work with a real Mongo db database",
+		"status": "ongoing"
+	}
+]
